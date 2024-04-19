@@ -12,7 +12,7 @@ import CSSSidebar from '../css/_sidebar';
 export default defineConfig({
   title: "史楠的前端面试题总结",
   description: "前端基础及相关面试题",
-  base: './',
+  base: '/',
   themeConfig: {
     lastUpdated: {
       text: 'Updated at',
