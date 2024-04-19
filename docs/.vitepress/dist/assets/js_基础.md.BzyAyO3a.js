@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.Bkp5Egd4.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"js/基础.md","filePath":"js/基础.md","lastUpdated":null}'),s={name:"js/基础.md"};function r(o,n,c,_,d,p){return a(),t("div")}const m=e(s,[["render",r]]);export{l as __pageData,m as default};

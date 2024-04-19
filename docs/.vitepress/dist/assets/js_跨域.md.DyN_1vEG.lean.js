@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as t,a4 as o}from"./chunks/framework.Bkp5Egd4.js";const m=JSON.parse('{"title":"跨域","description":"","frontmatter":{},"headers":[],"relativePath":"js/跨域.md","filePath":"js/跨域.md","lastUpdated":null}'),r={name:"js/跨域.md"},s=o("",6),n=[s];function l(i,_,c,d,h,p){return t(),a("div",null,n)}const f=e(r,[["render",l]]);export{m as __pageData,f as default};

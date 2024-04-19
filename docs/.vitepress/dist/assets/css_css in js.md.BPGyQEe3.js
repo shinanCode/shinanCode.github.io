@@ -1,0 +1,1 @@
+import{_ as s,c as e,o as t}from"./chunks/framework.Bkp5Egd4.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"css/css in js.md","filePath":"css/css in js.md","lastUpdated":null}'),a={name:"css/css in js.md"};function c(n,r,o,i,_,d){return t(),e("div")}const m=s(a,[["render",c]]);export{l as __pageData,m as default};

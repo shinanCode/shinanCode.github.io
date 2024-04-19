@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as t,a4 as o}from"./chunks/framework.Bkp5Egd4.js";const m=JSON.parse('{"title":"原型和原型链","description":"","frontmatter":{},"headers":[],"relativePath":"js/原型.md","filePath":"js/原型.md","lastUpdated":null}'),r={name:"js/原型.md"},s=o("",4),_=[s];function n(c,l,i,d,h,p){return t(),e("div",null,_)}const f=a(r,[["render",n]]);export{m as __pageData,f as default};

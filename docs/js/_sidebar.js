@@ -1,0 +1,43 @@
+module.exports = [
+  {
+    text: "基础",
+    items: [
+      { text: "原型和原型链", link: "/js/原型" },
+      { text: "上下文", link: "/js/home" },
+      { text: "this指向", link: "/js/home" },
+      { text: "闭包", link: "/js/home" },
+      { text: "继承", link: "/js/继承" },
+      { text: "call、apply、bind使用和区别", link: "/js/home" },
+      { text: "输入URL到页面呈现", link: "/js/home" },
+      { text: "重绘和回流", link: "/js/重绘和回流" },
+      { text: "浏览器和Node事件循环", link: "/js/浏览器和Node事件循环" },
+      { text: "浏览器缓存", link: "/js/浏览器缓存" },
+      { text: "防抖/节流", link: "/js/home" },
+      { text: "彻底搞懂var、let、const之间的区别", link: "/js/home" },
+      { text: "深拷贝和浅拷贝", link: "/js/深拷贝和浅拷贝" },
+      { text: "事件的传播和事件冒泡", link: "/js/事件的传播和事件冒泡" },
+    ],
+  },
+  {
+    text: "进阶",
+    items: [
+      { text: "面向对象编程", link: "/js/面向对象编程" },
+      { text: "纯函数", link: "/js/纯函数" },
+      { text: "高阶函数", link: "/js/高阶函数" },
+      { text: "函数柯里化", link: "/js/函数柯里化" },
+    ],
+  },
+  {
+    text: "网络",
+    items: [
+      { text: "跨域", link: "/js/跨域" },
+      { text: "TCP三次握手和四次挥手", link: "/js/home" },
+      { text: "闭包", link: "/js/home" },
+      { text: "SSO单点登录", link: "/js/home" },
+    ],
+  },
+  {
+    text: "性能优化",
+    items: [{ text: "性能优化", link: "/js/性能优化" }],
+  },
+];

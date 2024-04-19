@@ -1,0 +1,1 @@
+import{_ as e,c as a,o,a4 as t}from"./chunks/framework.Bkp5Egd4.js";const u=JSON.parse('{"title":"盒模型","description":"","frontmatter":{},"headers":[],"relativePath":"css/盒子模型.md","filePath":"css/盒子模型.md","lastUpdated":null}'),s={name:"css/盒子模型.md"},r=t("",9),l=[r];function c(i,n,_,d,h,p){return o(),a("div",null,l)}const m=e(s,[["render",c]]);export{u as __pageData,m as default};

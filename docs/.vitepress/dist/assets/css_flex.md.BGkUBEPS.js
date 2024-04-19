@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as s}from"./chunks/framework.Bkp5Egd4.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"css/flex.md","filePath":"css/flex.md","lastUpdated":null}'),a={name:"css/flex.md"};function c(r,o,n,l,d,f){return s(),t("div")}const i=e(a,[["render",c]]);export{_ as __pageData,i as default};

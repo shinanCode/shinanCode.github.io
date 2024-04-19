@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as s}from"./chunks/framework.Bkp5Egd4.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"css/grid.md","filePath":"css/grid.md","lastUpdated":null}'),a={name:"css/grid.md"};function r(c,o,d,n,i,p){return s(),t("div")}const m=e(a,[["render",r]]);export{l as __pageData,m as default};
