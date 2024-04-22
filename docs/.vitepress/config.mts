@@ -15,7 +15,7 @@ export default defineConfig({
   base: '/',
   themeConfig: {
     lastUpdated: {
-      text: 'Updated at',
+      text: '更新时间',
       formatOptions: {
         dateStyle: 'full',
         timeStyle: 'medium'
@@ -36,7 +36,7 @@ export default defineConfig({
         ],
       },
       { text: "CSS", link: "/css/盒子模型" },
-      { text: "Vue", link: "/vue/MVVM和MVM的区别" },
+      { text: "Vue", link: "/vue/MVVM和MVM的区别", activeMatch: '/vue/' },
       { text: "TypeScript", link: "/ts/home" },
       { text: "Node.js", link: "/markdown-examples" },
       {

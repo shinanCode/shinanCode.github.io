@@ -24,6 +24,7 @@ module.exports = [
       { text: "setup作用", link: "/vue/setup作用" },
       { text: "treeShaking", link: "/vue/treeShaking" },
       { text: "Vite", link: "/vue/Vite" },
+      { text: "Vue3移除的特性", link: "/vue/Vue3移除的特性" },
     ],
   },
   {
@@ -37,9 +38,9 @@ module.exports = [
   {
     text: "Vuex/Pinia",
     items: [
-      { text: "实现原理", link: "/js/home" },
-      { text: "导航守卫", link: "/js/" },
-      { text: "钩子函数", link: "/js/home" },
+      { text: "实现原理", link: "/vue/Vuex实现原理" },
+      { text: "导航守卫", link: "/vue/" },
+      { text: "钩子函数", link: "/vue/home" },
     ],
   },
 ];
