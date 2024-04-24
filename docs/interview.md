@@ -9,7 +9,7 @@
 4. [编程时光](https://www.coding-time.cn/js/preamble.html)
 > 包括JavaScript高级教程和TypeScript高级教程
 1. [「2021」高频前端面试题汇总](https://juejin.cn/post/6905294475539513352)
-2. 343
+2. [前端进阶积累](https://obkoro1.com/web_accumulate/)
 
 ## 刷题网站
 1. [前端大厂面试宝典](https://www.mianshibook.com/)

@@ -6,6 +6,7 @@ import tsSidebar from '../ts/_sidebar';
 import WebpackSidebar from '../webpack/_sidebar';
 import VuekSidebar from '../vue/_sidebar';
 import CSSSidebar from '../css/_sidebar';
+import ReactSidebar from '../react/_sidebar';
 
 
 // https://vitepress.dev/reference/site-config
@@ -29,7 +30,7 @@ export default defineConfig({
         text: "JavaScript",
         items: [
           { text: "基础", link: "/js/原型", activeMatch: '/js/' },
-          { text: "ES6", link: "/es6/map" },
+          { text: "ES6", link: "/es6/箭头函数" },
           { text: "手写代码", link: "/手写代码/new" },
           { text: "设计模式", link: "/item-3" },
           { text: "数据结构和算法", link: "/item-3" },
@@ -37,6 +38,7 @@ export default defineConfig({
       },
       { text: "CSS", link: "/css/盒子模型" },
       { text: "Vue", link: "/vue/MVVM和MVM的区别", activeMatch: '/vue/' },
+      { text: "React", link: "/react/base", activeMatch: '/react/' },
       { text: "TypeScript", link: "/ts/home" },
       { text: "Node.js", link: "/markdown-examples" },
       {
@@ -55,6 +57,7 @@ export default defineConfig({
       "/ts/":tsSidebar,
       "/webpack/":WebpackSidebar,
       "/vue": VuekSidebar,
+      "/react/": ReactSidebar,
       "/css/": CSSSidebar,
     },
 

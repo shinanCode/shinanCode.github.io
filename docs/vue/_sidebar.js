@@ -16,6 +16,7 @@ module.exports = [
       { text: "SSR", link: "/vue/SSR" },
     ],
   },
+
   {
     text: "Vue3",
     items: [
@@ -25,6 +26,14 @@ module.exports = [
       { text: "treeShaking", link: "/vue/treeShaking" },
       { text: "Vite", link: "/vue/Vite" },
       { text: "Vue3移除的特性", link: "/vue/Vue3移除的特性" },
+    ],
+  },
+  {
+    text: "Nuxt.js",
+    items: [
+      { text: "实现原理", link: "/vue/Vuex实现原理" },
+      // { text: "导航守卫", link: "/vue/" },
+      // { text: "钩子函数", link: "/vue/home" },
     ],
   },
   {

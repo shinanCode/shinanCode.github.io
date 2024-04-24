@@ -16,6 +16,8 @@ module.exports = [
       { text: "彻底搞懂var、let、const之间的区别", link: "/js/home" },
       { text: "深拷贝和浅拷贝", link: "/js/深拷贝和浅拷贝" },
       { text: "事件的传播和事件冒泡", link: "/js/事件的传播和事件冒泡" },
+      { text: "JSBridge", link: "/js/JSBridge" },
+      { text: "正则表达式", link: "/js/正则表达式" },
     ],
   },
   {
@@ -25,6 +27,7 @@ module.exports = [
       { text: "纯函数", link: "/js/纯函数" },
       { text: "高阶函数", link: "/js/高阶函数" },
       { text: "函数柯里化", link: "/js/函数柯里化" },
+      { text: "Canvas", link: "/js/Canvas" },
     ],
   },
   {
@@ -32,8 +35,10 @@ module.exports = [
     items: [
       { text: "跨域", link: "/js/跨域" },
       { text: "TCP三次握手和四次挥手", link: "/js/home" },
-      { text: "闭包", link: "/js/home" },
       { text: "SSO单点登录", link: "/js/home" },
+      { text: "websocket", link: "/js/websocket" },
+      { text: "HTTPS", link: "/js/HTTPS" },
+
     ],
   },
   {
