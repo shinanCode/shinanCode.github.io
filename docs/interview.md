@@ -8,8 +8,10 @@
 3. [前端面试](https://lgwebdream.github.io/FE-Interview/)
 4. [编程时光](https://www.coding-time.cn/js/preamble.html)
 > 包括JavaScript高级教程和TypeScript高级教程
-1. [「2021」高频前端面试题汇总](https://juejin.cn/post/6905294475539513352)
-2. [前端进阶积累](https://obkoro1.com/web_accumulate/)
+5. [「2021」高频前端面试题汇总](https://juejin.cn/post/6905294475539513352)
+6. [前端进阶积累](https://obkoro1.com/web_accumulate/)
+7. [Vue相关面试题](https://ustbhuangyi.github.io/vue-analysis/)
+8. [2021年前端面试必读文章【超三百篇文章/赠复习导图】:star:](https://juejin.cn/post/6844904116339261447)
 
 ## 刷题网站
 1. [前端大厂面试宝典](https://www.mianshibook.com/)

@@ -46,6 +46,7 @@ export default defineConfig({
         items: [
           { text: "Webpack", link: "/webpack/home" },
           { text: "Vite", link: "/item-1" },
+          { text: "微前端", link: "/item-1" },
         ],
       },
     ],

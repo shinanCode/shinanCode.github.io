@@ -3,9 +3,9 @@ module.exports = [
     text: "基础",
     items: [
       { text: "原型和原型链", link: "/js/原型" },
-      { text: "上下文", link: "/js/home" },
-      { text: "this指向", link: "/js/home" },
-      { text: "闭包", link: "/js/home" },
+      { text: "上下文", link: "/js/上下文" },
+      { text: "this指向", link: "/js/this指向" },
+      { text: "闭包", link: "/js/闭包" },
       { text: "继承", link: "/js/继承" },
       { text: "call、apply、bind使用和区别", link: "/js/home" },
       { text: "输入URL到页面呈现", link: "/js/home" },

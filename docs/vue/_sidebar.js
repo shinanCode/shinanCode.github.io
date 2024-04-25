@@ -4,8 +4,7 @@ module.exports = [
     items: [
       { text: "MVVM和MVM的区别", link: "/vue/MVVM和MVM的区别" },
       { text: "双向数据绑定", link: "/vue/双向数据绑定" },
-      { text: "Diff算法", link: "/vue/Diff算法" },
-      { text: "Virtual DOM", link: "/vue/VirtualDOM" },
+      { text: "Virtual DOM和Diff算法", link: "/vue/Diff算法" },
       { text: "$nextTick", link: "/vue/nextTick" },
       { text: "v-if和v-show区别", link: "/vue/vif" },
       { text: "v-if和v-for", link: "/vue/vif" },
