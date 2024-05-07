@@ -8,7 +8,7 @@ module.exports = [
       { text: "闭包", link: "/js/闭包" },
       { text: "继承", link: "/js/继承" },
       { text: "call、apply、bind使用和区别", link: "/js/home" },
-      { text: "输入URL到页面呈现", link: "/js/home" },
+      { text: "输入URL到页面呈现", link: "/js/输入URL到页面呈现" },
       { text: "重绘和回流", link: "/js/重绘和回流" },
       { text: "浏览器和Node事件循环", link: "/js/浏览器和Node事件循环" },
       { text: "浏览器缓存", link: "/js/浏览器缓存" },

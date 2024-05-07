@@ -12,6 +12,7 @@
 6. [前端进阶积累](https://obkoro1.com/web_accumulate/)
 7. [Vue相关面试题](https://ustbhuangyi.github.io/vue-analysis/)
 8. [2021年前端面试必读文章【超三百篇文章/赠复习导图】:star:](https://juejin.cn/post/6844904116339261447)
+9. [web前端面试 - 面试官系列 :star: ](https://vue3js.cn/interview/)
 
 ## 刷题网站
 1. [前端大厂面试宝典](https://www.mianshibook.com/)

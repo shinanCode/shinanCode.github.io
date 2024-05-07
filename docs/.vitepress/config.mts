@@ -7,6 +7,7 @@ import WebpackSidebar from '../webpack/_sidebar';
 import VuekSidebar from '../vue/_sidebar';
 import CSSSidebar from '../css/_sidebar';
 import ReactSidebar from '../react/_sidebar';
+import MiniSidebar from '../mini/_sidebar';
 
 
 // https://vitepress.dev/reference/site-config
@@ -30,10 +31,10 @@ export default defineConfig({
         text: "JavaScript",
         items: [
           { text: "基础", link: "/js/原型", activeMatch: '/js/' },
-          { text: "ES6", link: "/es6/箭头函数" },
-          { text: "手写代码", link: "/手写代码/new" },
-          { text: "设计模式", link: "/item-3" },
-          { text: "数据结构和算法", link: "/item-3" },
+          { text: "ES6", link: "/es6/箭头函数", },
+          { text: "手写代码", link: "/手写代码/new", },
+          { text: "设计模式", link: "/item-3", },
+          { text: "数据结构和算法", link: "/item-3",  },
         ],
       },
       { text: "CSS", link: "/css/盒子模型" },
@@ -47,6 +48,7 @@ export default defineConfig({
           { text: "Webpack", link: "/webpack/home" },
           { text: "Vite", link: "/item-1" },
           { text: "微前端", link: "/item-1" },
+          { text: "小程序", link: "/mini/云开发" },
         ],
       },
     ],
@@ -60,6 +62,7 @@ export default defineConfig({
       "/vue": VuekSidebar,
       "/react/": ReactSidebar,
       "/css/": CSSSidebar,
+      "/mini/": MiniSidebar,
     },
 
     socialLinks: [
